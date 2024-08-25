@@ -9,7 +9,7 @@ function Chat() {
             3ncompany@gmail.com
           </a>
           <h5 className="mb-50 lh-5 font">
-            Contact us: <input style={{marginLeft: "20px", paddingLeft: "20px", width: "29svw", borderRadius: "10px"}} class="input" placeholder='enter your email...'/>
+            Contact us: <input style={{marginLeft: "20px", paddingLeft: "20px", width: "30svw", borderRadius: "10px"}} class="input" placeholder='enter your email...'/>
           </h5>
         </div>
       </div>

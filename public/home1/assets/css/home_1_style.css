@@ -1066,7 +1066,7 @@
           clip-path: polygon(100% 0, 0 0, 0 100%, 100% 100%);
 }
 .tc-chat-style1 .xl-text {
-  font-size: 80px;
+  font-size: 48px;
   text-transform: uppercase;
   position: relative;
   z-index: 10;
@@ -1077,7 +1077,7 @@
 }
 
 .font {
-  font-size: 40px;
+  font-size: 24px;
   font-weight: 800;
 }
 
