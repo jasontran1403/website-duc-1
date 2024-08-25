@@ -8,8 +8,8 @@ function Chat() {
           <a href="#" className="xl-text">
             3ncompany@gmail.com
           </a>
-          <h5 className="mb-50 lh-5">
-            contact us: <input style={{marginLeft: "30px", paddingLeft: "20px", width: "20svw", borderRadius: "10px"}} class="input" placeholder='enter your email...'/>
+          <h5 className="mb-50 lh-5 font">
+            Contact us: <input style={{marginLeft: "20px", paddingLeft: "20px", width: "29svw", borderRadius: "10px"}} class="input" placeholder='enter your email...'/>
           </h5>
         </div>
       </div>

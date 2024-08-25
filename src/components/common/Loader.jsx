@@ -16,7 +16,7 @@ function Loader() {
           <span>i</span>
           <span>n</span>
           <span>g</span> */}
-          <img src="/home1/assets/img/logo.png" style={{width: "60px", height: "60px"}} alt="" />
+          <img src="/home1/assets/img/logo-dark.png" style={{width: "60px", height: "60px"}} alt="" />
         </div>
       </div>
     </div>

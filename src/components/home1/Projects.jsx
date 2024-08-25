@@ -56,20 +56,9 @@ function Projects() {
                     Lorem ipsum dolor sit
                   </button>
                 </li>
-                <li className="nav-item" role="presentation">
-                  <button
-                    className="nav-link"
-                    id="pills-proj5-tab"
-                    data-bs-toggle="pill"
-                    data-bs-target="#pills-proj1"
-                    type="button"
-                  >
-                    Lorem ipsum dolor sit Nemo
-                  </button>
-                </li>
               </ul>
             </div>
-            <div className="col-lg-3 mt-4 mt-lg-0 text-lg-end">
+            {/* <div className="col-lg-3 mt-4 mt-lg-0 text-lg-end">
               <a
                 href="#"
                 className="butn border rounded-pill color-orange1 border-orange1 hover-bg-orange1"
@@ -79,7 +68,7 @@ function Projects() {
                   <i className="small ms-1 ti-arrow-top-right"></i>
                 </span>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="projects">
@@ -118,9 +107,9 @@ function Projects() {
                     ))}
                   </div>
                 </div>
-                <div className="float-cursor float_box">
+                {/* <div className="float-cursor float_box">
                   Hold <br /> and Drag
-                </div>
+                </div> */}
               </div>
             </div>
             <div
@@ -157,10 +146,12 @@ function Projects() {
                     ))}
                   </div>
                 </div>
-                <div className="float-cursor float_box">
+                
+                {/* <div className="float-cursor float_box">
                   Hold <br /> and Drag
-                </div>
+                </div> */}
               </div>
+              
             </div>
           </div>
         </div>
