@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Glass",
+    "subTitle": "Lorem ipsum dolor",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius animi maxime aut quisquam dolores quasi obcaecati veniam consequuntur laborum consectetur voluptas, eveniet voluptatum non, omnis corporis? Natus suscipit neque quod.",
+    "img": "/home1/assets/img/head_slide1.jpg"
+  },
+  {
+    "title": "Glass",
+    "subTitle": "Lorem ipsum dolor",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius animi maxime aut quisquam dolores quasi obcaecati veniam consequuntur laborum consectetur voluptas, eveniet voluptatum non, omnis corporis? Natus suscipit neque quod.",
+    "img": "/home1/assets/img/head_slide2.png"
+  },
+  {
+    "title": "Glass",
+    "subTitle": "Lorem ipsum dolor",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius animi maxime aut quisquam dolores quasi obcaecati veniam consequuntur laborum consectetur voluptas, eveniet voluptatum non, omnis corporis? Natus suscipit neque quod.",
+    "img": "/home1/assets/img/head_slide3.png"
+  }
+]
+
