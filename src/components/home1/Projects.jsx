@@ -108,7 +108,7 @@ function Projects() {
                   </div>
                 </div>
                 {/* <div className="float-cursor float_box">
-                  Hold <br /> and Drag
+                  
                 </div> */}
               </div>
             </div>
@@ -146,9 +146,8 @@ function Projects() {
                     ))}
                   </div>
                 </div>
-                
                 {/* <div className="float-cursor float_box">
-                  Hold <br /> and Drag
+                  
                 </div> */}
               </div>
               
